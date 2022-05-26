@@ -1,1 +1,1 @@
-# Apresenta-o-de-Informa-es
+# Apresentação de Informações - O objetivo é apresentar para o cliente todas as informações do site em determinadas páginas especpecíficas para cada tema, ao acessar você irá para uma pagina onde podera ver videos e artigos. Além da Barra de Navegação que apresenta informações mais específicas do site.
